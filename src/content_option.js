@@ -12,7 +12,7 @@ const introdata = {
         third: "I love drone piloting",
         four: "I love video editing",
     },
-    description: "I'm a Frontend Developer that works mainly with React Batsby. In my projects",
+    description: "I'm a Frontend Developer that works mainly with React Gatsby. In my projects",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -85,13 +85,25 @@ const dataportfolio = [{
     {
         img: "https://app.netlify.com/sites/dreamy-biscuit-416aa1/",
         desctiption: "SideHustle Project Google Homepage clone.",
-        link: "https://dreamy-biscuit-416aa1.netlify.app/",
+        link: "https://grand-tiramisu-351695.netlify.app/",
     },
     
     {
         img: "https://62f4eedbad0a401ac64b9b23--darling-rugelach-1e352b.netlify.app/img%20/Sound-Sultan.jpeg",
         desctiption: "Sound Sultan Biography.",
         link: "https://62f4eedbad0a401ac64b9b23--darling-rugelach-1e352b.netlify.app/",
+    },
+
+    {
+        img: "https://ogudu-real-estate.netlify.app/",
+        desctiption: "A Realtor Website.",
+        link: "https://ogudu-real-estate.netlify.app/",
+    },
+
+    {
+        img: "https://grand-tiramisu-351695.netlify.app/",
+        desctiption: "A Female Gym Site.",
+        link: "https://grand-tiramisu-351695.netlify.app/",
     },
     
 ];
